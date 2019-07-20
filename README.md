@@ -1,0 +1,2 @@
+# BERT4WSD
+Using BERT, WORDNET and UKB for WSD
